@@ -1,0 +1,8 @@
+{
+  "name": "Talking Piggy",
+  "description": "Interactive AI-powered Talking Pig pet companion with custom outfits, sounds, food feeding, and action animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
